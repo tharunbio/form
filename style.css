@@ -1,0 +1,30 @@
+.form{
+    display: flex;
+}
+form{
+    margin:auto;
+    padding: 30px;
+    background-color: gray;
+    
+
+}
+form select{
+    width: 170px;
+    height: 23px;
+}
+h1{
+    text-align: center;
+}
+body{
+    background-color: aquamarine;
+}
+form label{
+    font-size: 20px;
+    color:white;
+}
+form input{
+    width: 100%;
+}
+from button{
+
+}
